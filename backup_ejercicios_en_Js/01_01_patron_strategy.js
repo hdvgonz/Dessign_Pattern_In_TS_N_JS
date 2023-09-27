@@ -16,11 +16,6 @@ class Context {
     }
   }
   
-  class strategy {
-    execute() {
-      throw new Error(" You must implement by a specific strategy ");
-    }
-  }
   
   class concreteStrategy1
   {

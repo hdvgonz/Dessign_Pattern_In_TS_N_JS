@@ -1,3 +1,5 @@
+/**Example extracted from Refactoring Guru */
+
 /** The subject interfaces declares a set of methods for managing subscribers */
 
 interface Subject {
